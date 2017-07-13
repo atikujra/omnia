@@ -5,9 +5,9 @@
   $subject = $_POST['subject'];
   $description = $_POST['description'];
 
-  echo "<br /> Issue : " . $issue;
+  /*echo "<br /> Issue : " . $issue;
   echo "<br /> Subject : " . $subject;
-  echo "<br /> Description : " . $description;
+  echo "<br /> Description : " . $description;*/
 
   try{
     // Insert Values from Form into table
